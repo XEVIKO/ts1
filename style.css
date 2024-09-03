@@ -78,3 +78,26 @@
 .hero .hero-img {
     margin: 10px;
 }
+
+.main-section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+   
+    
+    
+}
+
+.card {
+    /* border: 1px solid red; */
+    text-align: center;
+    
+    
+}
+
+.card img {
+    min-width: 100px;
+    width: 100%;
+    padding: 10px;
+    
+}
