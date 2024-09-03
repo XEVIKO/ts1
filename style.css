@@ -13,9 +13,9 @@
 
 
 .container {
-    min-width: 80dwv;
-    overflow-x: none;
-    
+    /* min-width: 80dwv;
+    overflow-x: none; */
+    overflow-x: hidden;
    
     
 }
