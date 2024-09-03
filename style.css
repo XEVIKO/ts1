@@ -11,10 +11,11 @@
 
 
 .container {
-    min-width: 100dwv;
+    min-width: 80dwv;
     overflow-x: hidden;
-    margin: 0 5px;
-    background-color: white;
+    padding: 10px;
+    border: 1px solid red;
+    background-color: green;
 }
 
 .logo-container {
