@@ -12,10 +12,9 @@
 
 .container {
     min-width: 80dwv;
-    overflow-x: hidden;
-    padding: 10px;
-    border: 1px solid red;
-    background-color: green;
+    
+   
+    
 }
 
 .logo-container {
