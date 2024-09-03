@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Chenla&family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    min-width: 100dwv;
+    overflow-x: hidden;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: right;
+    height: 60px;
+    font-weight: 400;
+}
+
+
+.logo img {
+    height: 80px;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.header-text-container {
+    
+    text-align: center;
+    width: 100%;
+}
+.header-text-container p {
+    font-family: "Literata", serif;
+    font-size: 60px;
+    color: #D69408;
+    letter-spacing: 30px;
+    
+}
+
+.subheader-text-container {
+    text-align: center;
+   
+}
+.subheader-text-container p {
+    font-family: "Chenla", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    letter-spacing: 2px;
+    
+}
+
+.subheader2-text-container {
+    text-align: center;
+}
+
+.subheader2-text-container p {
+    font-family: "Chenla", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    letter-spacing: 1px;
+    
+}
+
+.hero .hero-img {
+    margin: 10px;
+}
