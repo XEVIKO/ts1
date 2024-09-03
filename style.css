@@ -12,6 +12,7 @@
 
 .container {
     min-width: 80dwv;
+    overflow-x: none;
     
    
     
