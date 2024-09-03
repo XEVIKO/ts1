@@ -16,7 +16,7 @@
     /* min-width: 80dwv;
     overflow-x: none; */
     overflow-x: hidden;
-   
+    
     
 }
 
@@ -37,6 +37,7 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
+   
 }
 
 .header-text-container {
@@ -78,8 +79,13 @@
     
 }
 
-.hero .hero-img {
+.hero-img {
     margin: 10px;
+   
+}
+
+.hero-img img {
+    width: 100%;
 }
 
 .main-section {
