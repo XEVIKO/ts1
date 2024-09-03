@@ -85,7 +85,7 @@
 .main-section {
     width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
    
     
     
@@ -112,4 +112,8 @@
     font-style: normal;
     font-size: 12px;
     line-height: 14px;
+}
+
+.section-link {
+    text-decoration: none;
 }
